@@ -1,0 +1,25 @@
+[
+  {
+    "project": "+Horario",
+    "domain": "net",
+    "subdomains": [
+      {
+        "domain": "mashorario",
+        "subdomains": [
+          {
+            "domain": "api",
+            "address": "10.0.1.5"
+          },
+          {
+            "domain": "db",
+            "address": "10.0.1.5"
+          },
+          {
+            "domain": "www",
+            "address": "127.0.0.1"
+          }
+        ]
+      }
+    ]
+  }
+]
